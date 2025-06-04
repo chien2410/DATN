@@ -1,0 +1,533 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|f:\\datn\\datn_dinhcongchien_2020605672\\datn_dinhcongchien_2020605672\\nbshop\\views\\cart\\partial_item_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:views\\cart\\partial_item_cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\views\\cart\\partial_item_thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:views\\cart\\partial_item_thanhtoan.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:views\\products\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\views\\products\\partial_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:views\\products\\partial_menu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\views\\products\\getsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:views\\products\\getsanpham.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\home\\loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\home\\loginadmin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\contact\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\contact\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\promotions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\promotions\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\promotions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\promotions\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\promotions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\promotions\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\comments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\orders\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\orders\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\orders\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\orders\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\products\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\products\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\users\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\users\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\users\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\brands\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\brands\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\brands\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\brands\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\categories\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\categories\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\categories\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\shared\\_partiasidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD4FE0C6-9288-48BF-AD74-0526C36DBCA8}|ShopDGHouse.csproj|solutionrelative:areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Partial_Item_Thanhtoan.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Cart\\Partial_Item_Thanhtoan.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Partial_Item_Thanhtoan.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Cart\\Partial_Item_Thanhtoan.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Partial_Item_Thanhtoan.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:35:10.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Partial_Item_Cart.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Cart\\Partial_Item_Cart.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Partial_Item_Cart.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Cart\\Partial_Item_Cart.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Partial_Item_Cart.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:35:09.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Cart\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "Views\\Cart\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:35:01.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Partial_Menu.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Products\\Partial_Menu.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Partial_Menu.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Products\\Partial_Menu.cshtml",
+              "RelativeToolTip": "Views\\Products\\Partial_Menu.cshtml",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:25:10.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetSanPham.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Products\\GetSanPham.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\GetSanPham.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Products\\GetSanPham.cshtml",
+              "RelativeToolTip": "Views\\Products\\GetSanPham.cshtml",
+              "ViewState": "AgIAALoAAAAAAAAAAAAAADAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:23:35.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Products\\Detail.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Detail.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Views\\Products\\Detail.cshtml",
+              "RelativeToolTip": "Views\\Products\\Detail.cshtml",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAAAIsAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:23:10.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Promotions\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Promotions\\Edit.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Promotions\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Promotions\\Edit.cshtml",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAAAC0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:07:34.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Promotions\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Promotions\\Add.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Promotions\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Promotions\\Add.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:05:23.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Promotions\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Promotions\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Promotions\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Promotions\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:02:34.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Comments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Comments\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Comments\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Comments\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAADwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T03:00:54.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Orders\\Details.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAF8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:58:32.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAAAEYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:09:42.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Contact\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Contact\\Add.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Contact\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Contact\\Add.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:09:36.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginAdmin.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Home\\LoginAdmin.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\LoginAdmin.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Home\\LoginAdmin.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\LoginAdmin.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:10:01.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:13:33.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Orders\\Edit.cshtml",
+              "ViewState": "AgIAAMwAAAAAAAAAAAAAAEIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:58:32.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Orders\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Orders\\Add.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Orders\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Orders\\Add.cshtml",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAAFgAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:54:59.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAEkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:53:42.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAADEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:47:31.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Products\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Add.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Products\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Add.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAC4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:49:27.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAH8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:47:31.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Users\\Edit.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAFMAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:43:38.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Users\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Users\\Add.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Users\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Users\\Add.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:41:45.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Users\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAB4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:37:51.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Brands\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Brands\\Edit.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Brands\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Brands\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:35:22.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Brands\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Brands\\Add.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Brands\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Brands\\Add.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:30:44.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Brands\\Index.cshtml",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAD8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:29:09.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Edit.cshtml",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAEEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:27:43.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Categories\\Add.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Add.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Categories\\Add.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Add.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:26:07.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_PartiaSideBar.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_PartiaSideBar.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAFgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:20:25.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Categories\\Index.cshtml",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:20:14.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\DATN\\DATN_DinhCongChien_2020605672\\DATN_DinhCongChien_2020605672\\NBSHOP\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-01T02:09:51.344Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
